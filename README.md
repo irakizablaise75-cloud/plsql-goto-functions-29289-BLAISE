@@ -4,7 +4,7 @@
 |---|---|
 | **Course** | Database Development with PL/SQL (INSY 8311) |
 | **Instructor** | Eric Maniraguha (eric.maniraguha@auca.ac.rw) |
-| **Student** | BLAISE (ID: 29289) |
+| **Student** | IRAKIZA BLAISE (ID: 29289) |
 | **Repository** | `plsql-goto-functions-29289-BLAISE` |
 | **Database** | Oracle (SQL*Plus / SQL Developer) |
 | **Deadline** | Thursday, 8 October 2026, 11:59 PM |
